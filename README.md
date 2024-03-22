@@ -15,7 +15,7 @@ Code for this example can be found here [GitHub Repo](https://github.com/LauriAl
 The important parameters in this case are
 
 - **n** amount of **blocks**
-- **r** size of the **blocks** in 128-byte units so for example in `j9T` it's $9\cdot128 = 1152 bytes$
+- **r** size of the **blocks** in 128-byte units
 - **p** amount of paraller **threads** run
 
 Recomended paremeters for different setups can be found **[here](https://github.com/openwall/yescrypt/blob/main/PARAMETERS)**
